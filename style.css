@@ -1,0 +1,14 @@
+@media (min-width: 700px) {
+    #mainpage::before {
+        content: "Welcome to Aiman's webpage!";
+    }
+}
+@media (max-width: 699px) {
+    #mainpage::before {
+        content: "Welcome!";
+    }
+}
+
+p, li, h1, h4, th, td{
+  font-family: Apple Chancery, cursive;  
+}

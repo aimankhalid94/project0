@@ -1,0 +1,15 @@
+$color1: #3D9970;
+$color2: #001f3f;
+
+
+div {
+    font-size: 18px;
+
+    ol {
+        color: $color2;
+    }
+
+    ul {
+        color: $color1;
+    }
+}
